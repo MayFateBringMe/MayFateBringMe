@@ -1,4 +1,4 @@
-# ZAIM ARRAIS 👋
+# Hey 👋
 
 **'Just a Builder! 🤷‍♂️'**
 <!--
