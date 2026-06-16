@@ -25,8 +25,11 @@ A narrative driven sci-fi delivery game where you interact with the world around
 - ⚙️ Interactive ship
 - 🌌 Handcrafted anomalies & encounters
 - 📦 Delivery contracts and resource management
-
 > Deliver packages & Discover the unknown.
+
+<p>
+  <img width="200" src="https://skillicons.dev/icons?i=godot,python,cs,blender,ps" />
+</p>
 
 ---
 
@@ -38,10 +41,11 @@ A collaborative workspace that combines project management, documentation, and v
 - 📚 Knowledge base & documentation
 - 🎨 Moodboards & visual planning
 - 👥 Real-time collaboration
-
 > A platform to help solve a fragmented problem.
 
-
+<p>
+  <img width="250" src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,supabase,postgres,docker" />
+</p>
 
 # 💻 Tech Stack
 
