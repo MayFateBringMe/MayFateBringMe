@@ -33,7 +33,7 @@ A narrative driven sci-fi delivery game where you interact with the world around
 
 ---
 
-### 🛠️ Project Atlas
+### 🌲 Project Grove
 
 A collaborative workspace that combines project management, documentation, and visual planning into a single platform.
 
@@ -44,7 +44,7 @@ A collaborative workspace that combines project management, documentation, and v
 > A platform to help solve a fragmented problem.
 
 <p>
-  <img width="250" src="https://skillicons.dev/icons?i=react,vite,tailwind,ts,supabase,postgres,docker" />
+  <img width="250" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,nodejs,supabase,postgres,docker" />
 </p>
 
 # 💻 Tech Stack
