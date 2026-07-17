@@ -18,17 +18,18 @@
 
 # 🚀 Current Projects
 
-### 🎮 Project NULL
+### 🎮 Project VEIL
 
-A narrative driven sci-fi delivery game where you interact with the world around you while making deliveries and dealing with anomalies.
+A narrative-driven psychological horror game inspired by Malaysian folklore and everyday life, blending supernatural encounters with themes rooted in reality.
 
-- ⚙️ Interactive ship
-- 🌌 Handcrafted anomalies & encounters
-- 📦 Delivery contracts and resource management
-> Deliver packages & Discover the unknown.
+- 🏚️ Atmospheric environments
+- 👁️ Psychological & supernatural horror
+- 🇲🇾 Malaysian folklore and cultural influences
+
+> Some things are better off forgotten.
 
 <p>
-  <img width="200" src="https://skillicons.dev/icons?i=godot,python,cs,blender,ps" />
+  <img width="200" src="https://skillicons.dev/icons?i=unity,cs,blender,ps" />
 </p>
 
 ---
